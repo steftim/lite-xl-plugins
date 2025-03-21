@@ -907,6 +907,16 @@
       "version": "0.1"
     },
     {
+      "description": "Syntax for the [Device Tree Source](https://web.git.kernel.org/pub/scm/utils/dtc/dtc.git/plain/Documentation/dts-format.txt?id=HEAD) format",
+      "id": "language_devicetree",
+      "mod_version": "3",
+      "path": "plugins/language_devicetree.lua",
+      "tags": [
+        "language"
+      ],
+      "version": "0.1"
+    },
+    {
       "description": "Syntax for diff and patch files",
       "id": "language_diff",
       "mod_version": "3",
